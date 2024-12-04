@@ -7,7 +7,7 @@
     "keywords": [],
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
-    "license": "ISC",
+    "license": "MIT",
     "files": [
         "lib/**/*"
     ],
